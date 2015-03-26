@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <PublishUrlHistory>E:\SyncDisk\yiest\clickonce\SCTK\|E:\SyncDisk\yiest\clickonce\sctk\</PublishUrlHistory>
+    <InstallUrlHistory>http://yiest.com/clickonce/SCTK/|http://yiest.com/clickonce/sctk/</InstallUrlHistory>
+    <SupportUrlHistory>http://yiest.com/|http://yiest.com/software/sctk/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
