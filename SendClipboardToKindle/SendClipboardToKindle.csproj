@@ -15,7 +15,7 @@
     </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>E:\SyncDisk\yiest\clickonce\SCTK\</PublishUrl>
+    <PublishUrl>http://www.yiest.com/kindle/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -25,8 +25,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://yiest.com/clickonce/SCTK/</InstallUrl>
-    <SupportUrl>http://yiest.com/</SupportUrl>
+    <InstallUrl>http://www.yiest.com/kindle/</InstallUrl>
+    <SupportUrl>http://www.yiest.com/kindle/</SupportUrl>
     <TargetCulture>en-US</TargetCulture>
     <PublisherName>Yiest</PublisherName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
@@ -70,9 +70,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>icon.ico</ApplicationIcon>
-  </PropertyGroup>
-  <PropertyGroup>
-    <AssemblyOriginatorKeyFile>yiest.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -125,7 +122,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="yiest.pfx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\icon.ico" />
