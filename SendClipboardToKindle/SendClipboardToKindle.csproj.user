@@ -2,9 +2,9 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
-    <PublishUrlHistory>E:\SyncDisk\yiest\clickonce\SCTK\|E:\SyncDisk\yiest\clickonce\sctk\</PublishUrlHistory>
-    <InstallUrlHistory>http://yiest.com/clickonce/SCTK/|http://yiest.com/clickonce/sctk/</InstallUrlHistory>
-    <SupportUrlHistory>http://yiest.com/|http://yiest.com/software/sctk/</SupportUrlHistory>
+    <PublishUrlHistory>http://www.yiest.com/kindle/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.yiest.com/kindle/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.yiest.com/kindle/</SupportUrlHistory>
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
