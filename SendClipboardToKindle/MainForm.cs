@@ -168,7 +168,7 @@ namespace SendClipboardToKindle
             string from = emailFrom;
             string to = sentTo;
             MailMessage message = new MailMessage(from, to);
-            message.Body = @"Developed by Yiest(yiest.com).";
+            message.Body = @"Developed by Yiest(www.yiest.com).";
             message.Subject = subject;
 
             Attachment attachment = new Attachment(tempFile, MediaTypeNames.Application.Octet);
