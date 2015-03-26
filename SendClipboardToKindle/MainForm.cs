@@ -80,7 +80,7 @@ namespace SendClipboardToKindle
 
         private void donateToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start(new ProcessStartInfo("http://yiest.com/donate/"));
+            Process.Start(new ProcessStartInfo("http://www.yiest.com/donate/"));
         }
 
         private string ReplaceBadCharOfFileName(string fileName)
